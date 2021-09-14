@@ -1,2 +1,6 @@
 AMA: Hola:)
+<<<<<<< HEAD
 ERM: Holas uwus
+=======
+AMA: ¿Cómo están?
+>>>>>>> a2d63d2f91ae055d30b3e3fa408a70c3ba8c8063
