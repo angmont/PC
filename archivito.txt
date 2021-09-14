@@ -7,3 +7,5 @@ AMA: ¿Cómo están?
 ASM: Que comieron hoy?
 
 ASM: Tengo miedo de Algebra Lineal
+
+ASM: Te me cuidas
