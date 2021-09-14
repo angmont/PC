@@ -13,5 +13,3 @@ ASM: Te me cuidas
 =======
 ERM: oki doki
 >>>>>>> 7451fafd530cb8057748178963956d8bae3afc4d
-
-AMA: :)
